@@ -5,21 +5,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>My Profile - Agandruga Fred</title>
 </head>
-<body>
+<form>
     <header>
         <h1>Agandruga Fred</h1>
-        <p>Web Designer &amp; IT Student</p>
+        <p>Web Designer ; IT Student</p>
         <p>Web Designer / Ugandan / Terego District</p>
     </header>
 
     <main>
         <section aria-labelledby="contact-heading">
-            <h2 id="contact-heading">Address &amp; Contact</h2>
+            <h2 id="contact-heading">Address; Contact</h2>
             <address>
                 Terego East Constituency, Odupi Sub-County<br>
                 Tel: <a href="tel:+256775270517">0775270517</a><br>
                 Email: <a href="mailto:agandrugaf@gmail.com">agandrugaf@gmail.com</a>
-            </address>
+            </address> 
         </section>
 
         <section aria-labelledby="about-heading">
@@ -81,12 +81,30 @@
     </main>
 
     <footer>
-        <p>
-            <a href="https://github.com/Agandruga2026Fred/itm1131--portfolio.git"
-               target="_blank"
-               rel="noopener noreferrer">GitHub Profile</a>
-        </p>
-        <p>&copy; 2026 Agandruaga Fred. All Rights Reserved.</p>
+        <p> 2026 Agandruaga Fred. All Rights Reserved.</p>
     </footer>
 </body>
 </html>
+<section id="project"></section>
+<h2>My Projects</h2>
+    <article></article>  
+    <h3>ITM1131 Portfolio Project</h3>
+    <p>A Semantic HTML Profile page with a validated contact form</p>
+</article>
+</section>
+<section id="contact"></section>
+<h2>Contact Me</h2>
+    <form action="" method="post">
+        <fieldset>
+            <legend>Contact Information</legend>
+           <label for="name">Name</label>
+           <input type="text"id="name"name="name"placeholder="Enter your full name"autocomplete="name" required>
+              <label for="email">Email</label>
+                <input type="email"id="email"name="email"placeholder="Enter your email address"required autocomplete="email">
+                <label for="message">Message</label>
+                <textarea id="message"name="message"placeholder="Enter your message here"required minlength="10" rows="5"></textarea>
+                <button type="submit">Submit</button>
+    </fieldset>
+    </form>
+    </section> 
+    </main>
