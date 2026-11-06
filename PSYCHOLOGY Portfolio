@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<button id="menu-toggle">☰ Menu</button>
+<ul id="menu" class="nav-menu">
+  <li><a href="#">Home</a>
+  <h1>My Psychology Notes</h1>
+    <h2>What Is Learning?</h2>
+    <p>
+•	Learning is the process of acquiring new knowledge, skills, attitudes, behaviours and experiences.
+      <br>
+•	It can happen through study, practice, observation or personal experience.
+      <br>
+•	Learning can lead to changes in knowledge, skills, behaviour and the way a person thinks.
+      <h1>WAYS OF LEARNING </h1>
+      <ol>Learning Through Formal
+	 	Lesson</ol>
+    <ul>•	I have been learning by attending formal lessons at school.</ul>
+    <ul>•	Teachers provide knowledge, explanations and guidance.</ul>
+    <ul>•	Classroom learning gives me a structured way of developing knowledge and skills.</ul>
+    <ol>Learning Through Music</ol>
+    <ul>•	I have been learning through listening to music.</ul>
+    <ul>•	Music can expose me to different ideas, cultures and forms of expression.</ul>
+    <ul>•	It can also help develop creativity and appreciation of different forms of art.</ul>
+    
+    <ol>Learning Through Historical
+	 	Stories
+</ol>
+    <ul>•	I have been learning through historical stories.</ul>
+    <ul>•	For example, stories such as Nambi and Kintu help me understand the past.</ul>
+    <ul>•	Historical stories can teach lessons from the experiences of earlier generations.</ul>
+    <ol>Learning Through Internet
+	 	Research
+</ol>
+    <ul>•	I have been learning by conducting research on the Internet.</ul>
+    <ul>•	The Internet gives me access to information beyond what is taught in class.</ul>
+    <ul>•	Research helps me explore topics and improve my understanding.</ul>
+    <ol>Learning Through Practice</ol>
+    <ul>•	I have been learning through practice.</ul>
+    <ul>•	Repeated practice helps me develop and improve skills.</ul>
+    <ul>•	Practice also helps me apply what I have learned in real situations.</ul>
+    <ol>Learning Through Movies and Educational Programmes</ol>
+    <ul>•	I have been learning through watching movies and educational programmes</ul>
+    <ul>•	They can provide information, examples and different perspectives.</ul>
+    <ul>•	Visual materials can make some ideas easier to understand and remember.</ul>
+    <ol>Learning From Other People's 	Experiences</ol>
+    <ul>•	I have been learning from other people's experiences.</ul>
+    <ul>•	I can learn by listening to their stories and observing what they have gone through.</ul>
+    <ul>•	Their experiences can provide lessons that guide my own decisions.</ul>
+    <ol>Learning From My Own
+	 	Experiences
+</ol>
+    <ul>•	I have been learning from my own experiences.</ul>
+    <ul>•	I reflect on what happens to me and consider what I can learn from it.</ul>
+    <ul>•	My experiences can help me make better decisions in the future.</ul>
+</p
+  <h3>Conclusion</h3>
+<ul>Learning does not only take place in a classroom.</ul>
+<ul>•	It can happen through education, practice, observation, research, media and experience.</ul>
+<ul>•	These different forms of learning help us gain knowledge, develop skills, change behaviour and improve our thinking.</ul>
+  <li><a href="#">About</a></li>
+  <li><a href="#">Contact</a></li>
+</ul>
+  <h1>LEARNING PYRAMID</h1>
+  <h2>Learning Architecture</h2>
+  <h3>Average Retention Rates Across Methods</h3>
+  <ol>Lecture-5% where Passive learning without feedback</ol>
+  <ol>Reading-10% Where text based Personal Reading</ol>
+  <ol>Audio Visual-20% Where multi Sensory videoand Graphics</ol>
+  <ol>Demonstration-30% Where observing expert step-by-step Model</ol>
+  <ol>Discussion Group-50% where peer attention and debate</ol>
+  <ol>Practice by doing-75% where hands-on trial and execution</ol>
+  <ol>Teaching Others-90% where  immediate application and monitoring</ol>
+  <h1>LEARNING STYLES</h1>
+  <ul>Visual-See and Observe</ul>
+  <ul>Auditory-Listen and Hear</ul>
+  <ul>Kinesthetic-Do and Experience</ul>
+  <h3>1.Audutory Learning </h3>
+  <ol>Learns by listening and Speaking</ol>
+  <ol>Prefers lectures,Discussions and Podcasts</ol>
+  <ol>Benefits from Reading loaud and Group Discussion</ol>
+  <h3>2.Kinesthetic Learning-Do and Experience</h3>
+  <ol>Learn by doing and touching </ol>
+  <ol>Hands on Activities, experiments</ol>
+  <ol>Role play and real-life tasks</ol>
+  <ol>Highest retention is 75%</ol>
+  <h3>3.Reading-Learn by Reading</h3>
+  <ol>Learn by reading texts and notes</ol>
+  <ol>Prefers text books,articles and handouts</ol>
+  <ol>Quite and focused learners</ol>
+  <ul>Strategies-Give printed notes,Summaries and reading assignments</ul>
+  <h4>Examples </h4>
+  <ul>Coding</ul>
+    <ul>Lab Work</ul>
+    <ul>Building Models</ul>
+  <h3>Reading and Writing </h3>
+  <ol>Combination of reading texts and Notes</ol>
+  <ol>Learns by rewriting and Summarising</ol>
+  <ol>Likes lists,essays and journals</ol>
+  <h3>Best Methods</h3>
+  <ol>Let them take notes, writes reports,Make mind maps</ol>
+  <h3>Audio Visual Learning-See and Hear </h3>
+  <ol>Combines seeing and hearing</ol>
+  <ol>Learns best with videos,slides, diagrams with narration</ol>
+ <ol>High retention-20% to 30%</ol>
+ <h3>Examples</h3>
+  <ol>YouTube Tutorials</ol>
+  <ol>Documentaries</ol>
+  <h2>LEARNING  THEORIES </h2>
+  <h3>Definition </h3>
+  <p>A learning theory explains how people acquire knowledge, skills, attitudes, or behaviours</p>
+  <h2>Why it Matters</h2>
+  <p>It helps teachers choose teaching strategies, support learners, and assess progress.</p>
+  <h2>Important point</h2>
+  <p>The three theories focus on different aspects of learning; teachers can combine them.</p>
+  <h1>The three theories at a glance</h1>
+  <ol>Behaviourism — behaviour</ol>
+  <ol>Cognitivism — thinking</ol>
+  <ol>Constructivism — building understanding</ol>
+  <h2>Behaviourism — behaviour</h2>
+  <p>Learning is understood through observable behaviour, practice, stimuli, and consequences.</p>
+  <h2>Cognitivism — thinking</h2>
+  <p>Learning involves attention, memory, understanding, reasoning, and information processing.</p>
+  <h2>Constructivism — building understanding</h2>
+  <p>Learners actively develop knowledge through experience, reflection, and interaction.</p>
+  <h1>1.Behaviourism: meaning and key ideas</h1>
+  <h3>Meaning</h3>
+  <p>Behaviourism explains learning as a change in observable behaviour influenced by experience and the environment.</p>
+  <h3>Key Terms</h3>
+  <ol>Stimulus: </ol>
+  <p>something that prompts a response. Response: the learner’s reactio</p>
+  <ol>Reinforcement</ol>
+  <p>A consequence that increases the likelihood of a behaviour happening again.</p>
+  <ol>Punishment</ol>
+  <p>A consequence intended to reduce a behaviour; it is not the same as negative reinforcement.</p>
+  
+  
+  
+  <style>
+body {background-color: white;}
+h1   {color: blue;}
+p    {color: black;}
+    ol{Color: Blue;}
+    
+<form id="contact-form">
+  <textarea id="message" maxlength="200" placeholder="Type your message..."></textarea>
+  <p id="char-count">0 / 200 characters</p>
+  <button type="submit">Send</button>
+</form>
